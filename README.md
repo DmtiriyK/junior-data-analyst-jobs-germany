@@ -18,6 +18,7 @@ The dataset was collected from LinkedIn job postings and includes:
 - Remote tag, Language detection
 - Boolean flags for skills: Python, SQL, Excel, Power BI, Tableau, Git, VBA, SAS
 
+📁 [View dataset (CSV)](data/linkedin_jobs_enriched.csv)
 
 ---
 
@@ -37,7 +38,7 @@ The dataset was collected from LinkedIn job postings and includes:
 
 ### 🌍 Language of Job Descriptions
 
-![Language Pie](visuals/language_pie.png)
+![Language Pie](visuals/skills_chart.png)
 
 ### 🔗 Full Interactive Dashboard (Google Sheets)
 
@@ -66,3 +67,4 @@ If LinkedIn or any other party requests removal, this repository will be taken d
 
 I'm a junior data analyst enthusiastically diving into real data to explore the job market and grow my skills step-by-step.  
 This is my first public project — and there's more to come 🚀
+
