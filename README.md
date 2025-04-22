@@ -67,4 +67,5 @@ If LinkedIn or any other party requests removal, this repository will be taken d
 
 I'm a junior data analyst enthusiastically diving into real data to explore the job market and grow my skills step-by-step.  
 This is my first public project — and there's more to come 🚀
+📄 Scraper code: [`notebooks/linkedin_scraper.ipynb`](notebooks/linkedin_scraper.ipynb)
 
