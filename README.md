@@ -36,9 +36,9 @@ The dataset was collected from LinkedIn job postings and includes:
 
 ![Skills Chart](visuals/skills_chart.png)
 
-### 🌍 Language of Job Descriptions
+### 🌍 Primary table
 
-![Language Pie](visuals/skills_chart.png)
+![Language Pie](visuals/Table1.png)
 
 ### 🔗 Full Interactive Dashboard (Google Sheets)
 
